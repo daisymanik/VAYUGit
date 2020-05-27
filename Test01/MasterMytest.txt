@@ -1,0 +1,15 @@
+My Master Test
+
+<<<<<<< Updated upstream
+my master test - upstream
+=======
+my master test - downstream
+>>>>>>> Stashed changes
+
+<<<<<<< Updated upstream
+second - upstream change
+=======
+Second - Downstream change
+>>>>>>> Stashed changes
+
+MasterMyTest - DownStream commit 0002
